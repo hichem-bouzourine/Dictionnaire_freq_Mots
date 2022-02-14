@@ -1,6 +1,6 @@
 # Dictionnaire_freq_Mots
 
-# Go to your Linux.
+# Go to your Terminal.
 
 type :  make                 
 type :  make run 

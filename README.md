@@ -2,7 +2,7 @@
 
 # Go to your Linux.
 
-type :  make
+type :  make                 
 type :  make run 
 
 # it supposed to work well.

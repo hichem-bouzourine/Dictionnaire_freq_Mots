@@ -1,8 +1,9 @@
-# Dictionnaire_freq_Mots
+# Dictionnaire_freq_Mots.
 
+# No packages to install.
 # Go to your Terminal.
+```
+make                 
+make run 
+```
 
-type :  make                 
-type :  make run 
-
-# it supposed to work well.
